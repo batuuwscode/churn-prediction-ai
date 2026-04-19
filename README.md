@@ -1,9 +1,7 @@
-&lt;p align="center"&gt;
-  &lt;img src="https://cdn-icons-png.flaticon.com/512/2922/2922506.png" width="120" alt="Churn Prediction Logo"&gt;
-&lt;/p&gt;
+<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/2922/2922506.png" width="120" alt="Churn Prediction Logo"></p>
 
-&lt;h1 align="center"&gt;🎯 AI Destekli Müşteri Kaybı Tahmini&lt;/h1&gt;
-&lt;h3 align="center"&gt;Streamlit + CatBoost + SHAP ile Uçtan Uca Makine Öğrenmesi&lt;/h3&gt;
+<h1 align="center">🎯 AI Destekli Müşteri Kaybı Tahmini</h1>
+<h3 align="center">Streamlit + CatBoost + SHAP ile Uçtan Uca Makine Öğrenmesi</h3>
 
 &lt;p align="center"&gt;
   &lt;a href="https://python.org"&gt;&lt;img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"&gt;&lt;/a&gt;
