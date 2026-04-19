@@ -1,8 +1,6 @@
 # 🎯 AI Destekli Müşteri Kaybı Tahmini
 
-&lt;div align="center"&gt;
-
-### Streamlit + CatBoost + SHAP ile Uçtan Uca Makine Öğrenmesi
+**Streamlit + CatBoost + SHAP ile Uçtan Uca Makine Öğrenmesi**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
@@ -11,19 +9,13 @@
 
 🚀 **Tak-Çalıştır** | 🔍 **Açıklanabilir AI** | 💼 **İş Odaklı**
 
-&lt;/div&gt;
-
 ---
 
 ## 🎬 Demo
 
-&lt;div align="center"&gt;
-
-&lt;img src="https://cdn-icons-png.flaticon.com/512/2922/2922506.png" width="120" alt="Churn Prediction Logo"&gt;
+![Logo](https://cdn-icons-png.flaticon.com/512/2922/2922506.png)
 
 *Canlı demo için repoyu klonlayıp çalıştırın*
-
-&lt;/div&gt;
 
 ---
 
@@ -42,6 +34,7 @@
 
 ## 🛠️ Kurulum (30 Saniye)
 
+```bash
 # 1. Repoyu klonla
 git clone https://github.com/batuuwscode/churn-prediction-ai.git
 cd churn-prediction-ai
