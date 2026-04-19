@@ -32,6 +32,11 @@
 
 ---
 
+## 👤 İletişim
+
+**Linkedln Profili :** https://www.linkedin.com/in/batuhan-aras-65922b403/
+**Mail Adresi :** baras4034@gmail.com
+
 ## 🛠️ Kurulum (30 Saniye)
 
 ```bash
